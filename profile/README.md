@@ -1,4 +1,12 @@
-<img alt="logo" src="https://www.axzon.com/assets/images/logo-blanco-y-rojo-9-545x229.png" height="40px" />
+
+<div align="center">
+  <picture>
+    <source srcset="https://www.axzon.com/assets/images/logo-blanco-y-rojo-9-545x229.png" height="40px" media="(prefers-color-scheme: dark)">
+    <img alt="logo" src="https://www.axzon.com/assets/images/logo-axzon-black.png" height="40px" />
+  </picture>
+</div>
+
+
 
 ## Welcome to Axzon Studio!
 
