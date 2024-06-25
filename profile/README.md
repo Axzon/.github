@@ -10,7 +10,34 @@
 
 ## Welcome to Axzon Studio!
 
-
+| Brand       | Type of Device | MAGNUS Temperature | MAGNUS Moisture | OPUS Temperature | OPUS Data Encryption | OPUS Data Integrity | OPUS Untraceable | Model     |
+|-------------|:--------------:|:------------------:|:---------------:|:----------------:|:--------------------:|:-------------------:|:----------------:|:---------:|
+| driq        | Fixed          |         ✓          |       ✓         |                  |                      |                     |                  | driq hub  |
+| FDX         | Fixed          |         ✓          |       ✓         |        ✓         |                      |                     |                  | FDX-READER|
+| Nordic ID   | Wearable       |         ✓          |       ✓         |        ✓         |                      |                     |                  | EXA21     |
+| Nordic ID   | Wearable       |         ✓          |       ✓         |        ✓         |                      |                     |                  | EXA31     |
+| Nordic ID   | Sled           |         ✓          |       ✓         |        ✓         |                      |                     |                  | EXA81     |
+| Nordic ID   | Sled           |         ✓          |       ✓         |        ✓         |                      |                     |                  | EXA51e    |
+| Nordic ID   | Fixed          |         ✓          |       ✓         |        ✓         |                      |                     |                  | Stix      |
+| Nordic ID   | Fixed          |         ✓          |       ✓         |        ✓         |                      |                     |                  | Sampo     |
+| Nordic ID   | Fixed          |         ✓          |       ✓         |        ✓         |                      |                     |                  | FR22      |
+| Nordic ID   | HandHeld       |         ✓          |       ✓         |        ✓         |                      |                     |                  | HH83      |
+| Nordic ID   | HandHeld       |         ✓          |       ✓         |        ✓         |                      |                     |                  | HH85      |
+| Nordic ID   | Fixed          |         ✓          |       ✓         |        ✓         |                      |                     |                  | IRX200    |
+| PhyChips    | Module         |         ✓          |       ✓         |        ✓         |                      |                     |                  | RED4S     |
+| PhyChips    | Module         |         ✓          |       ✓         |        ✓         |         ✓            |         ✓           |        ✓         | PR7       |
+| PhyChips    | Module         |         ✓          |       ✓         |        ✓         |         ✓            |         ✓           |        ✓         | WINE7     |
+| SensThys    | Fixed          |         ✓          |       ✓         |        ✓         |                      |                     |                  | Enterprise|
+| SensThys    | Fixed          |         ✓          |       ✓         |        ✓         |                      |                     |                  | Extreme   |
+| SensThys    | Fixed          |         ✓          |       ✓         |        ✓         |                      |                     |                  | Core      |
+| ThingMagic  | Fixed          |         ✓          |       ✓         |        ✓         |                      |                     |                  | Sargas    |
+| ThingMagic  | Fixed          |         ✓          |       ✓         |        ✓         |                      |                     |                  | IZAR      |
+| ThingMagic  | Fixed          |         ✓          |       ✓         |        ✓         |                      |                     |                  | USB Pro   |
+| ThingMagic  | Module         |         ✓          |       ✓         |        ✓         |                      |                     |                  | M6e       |
+| ThingMagic  | Module         |         ✓          |       ✓         |        ✓         |                      |                     |                  | M7e       |
+| Zebra       | HandHeld       |                    |       ✓         |                  |                      |                     |                  | MC3330xR  |
+| Zebra       | HandHeld       |                    |       ✓         |                  |                      |                     |                  | MC3390xR  |
+| Zebra       | Fixed          |         ✓          |       ✓         |        ✓         |                      |                     |                  | FX9600    |
 
 <!--
 
