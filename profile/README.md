@@ -10,6 +10,8 @@
 
 ## Welcome to Axzon Studio!
 
+### Readers with Sensor Support
+
 | Brand       | Type of Device | MAGNUS Temperature | MAGNUS Moisture | OPUS Temperature | OPUS Data Encryption | OPUS Data Integrity | OPUS Untraceable | Model     |
 |-------------|:--------------:|:------------------:|:---------------:|:----------------:|:--------------------:|:-------------------:|:----------------:|:---------:|
 | driq        | Fixed          |         ✓          |       ✓         |                  |                      |                     |                  | driq hub  |
